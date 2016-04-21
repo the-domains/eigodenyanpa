@@ -1,0 +1,28 @@
+name: eigodenyanpa
+favicon: null
+layout_spectrum: 0.731476049637422
+typography_spectrum: 0.7713528277818114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.58847591211088
+  lightness: 0.33458024193532765
+  saturation: 0.6297125446144491
+  rhythmicContrast: 0.5777729814872146
+purpose: []
