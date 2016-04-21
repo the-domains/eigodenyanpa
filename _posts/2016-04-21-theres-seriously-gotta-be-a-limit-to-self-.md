@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "自己満足にもほどがある・・・よな？There's seriously gotta be a limit to self-satisfaction, ya think?"
-datePublished: '2016-04-21T01:59:54.079Z'
-dateModified: '2016-04-21T01:59:49.697Z'
+datePublished: '2016-04-21T03:39:58.103Z'
+dateModified: '2016-04-21T02:00:04.943Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-theres-seriously-gotta-be-a-limit-to-self-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-theres-seriously-gotta-be-a-limit-to-self-.md
-published: true
 url: theres-seriously-gotta-be-a-limit-to-self-/index.html
 _type: Article
 
